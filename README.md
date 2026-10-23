@@ -1,2 +1,1 @@
-# GRA_DLA_7_LATK-W
-tak
+Gui Clienta Wisnia 1.21.11
